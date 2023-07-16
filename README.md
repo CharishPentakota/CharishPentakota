@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Charish Pentakota.<br><br>My Portfolio Projects : <a href="https://github.com/CharishPentakota/DataAnalyst_PortFolio_Projects"> Link </a><br><br>My Tablaeu projects : https://public.tableau.com/app/profile/charish.pentakota<br><br>Email me at : charishpentakota2002@gmail.com 
+Hi 👋, I'm Charish Pentakota.<br><br>My Portfolio Projects : <a href="https://github.com/CharishPentakota/DataAnalyst_PortFolio_Projects"> Link </a><br><br>My Tablaeu projects : <a href="https://public.tableau.com/app/profile/charish.pentakota/"> Link </a> <br><br>Email me at : charishpentakota2002@gmail.com 
 
 
 ## 🌐 Socials:
